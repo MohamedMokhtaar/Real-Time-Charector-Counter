@@ -23,5 +23,4 @@ This is a small JavaScript project that counts the characters as you type in a t
 - Color alert when you're near or at the limit
 - Responsive and clean design
 
-## 📁 Folder Structure
 
